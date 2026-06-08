@@ -1,0 +1,32 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Tomar café da manhã",
+      "descricao": "Preparar e comer o café da manhã",
+      "prioridade": "Alta",
+      "status": "Em andamento"
+    },
+    {
+      "id": 2,
+      "titulo": "Correr 5km",
+      "descricao": "Correr 5km na beira do rio",
+      "prioridade": "Baixa",
+      "status": "Concluída"
+    },
+    {
+      "id": 3,
+      "titulo": "Comprar o presente de aniversário do João",
+      "descricao": "Não esquecer, já que é no próximo sábado",
+      "prioridade": "Média",
+      "status": "Pendente"
+    },
+    {
+      "titulo": "Comprar o buquê",
+      "descricao": "Pode ser de rosas vermelhas/brancas ou lírios ",
+      "prioridade": "Baixa",
+      "status": "Pendente",
+      "id": 4
+    }
+  ]
+}
